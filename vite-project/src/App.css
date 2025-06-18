@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+#main{
+    min-width: 100vw;
+}
